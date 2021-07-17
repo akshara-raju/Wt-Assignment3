@@ -24,10 +24,5 @@ if (flock($file,LOCK_EX)) {
 }
 fclose($file);
 ?>
-			/*
-      Submitted by
-			Akshara Raju
-			S6  CSE-B
-			Roll No: 2
-      */
+		
       
